@@ -1,0 +1,14 @@
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Logic\bin\Debug\Logic.dll
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Logic\bin\Debug\Logic.pdb
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Logic\bin\Debug\Data.dll
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Logic\bin\Debug\Utilitary.dll
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Logic\bin\Debug\EntityFramework.dll
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Logic\bin\Debug\Data.pdb
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Logic\bin\Debug\Data.dll.config
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Logic\bin\Debug\Utilitary.pdb
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Logic\bin\Debug\EntityFramework.xml
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Logic\obj\Debug\Logic.dll
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Logic\obj\Debug\Logic.pdb
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Logic\obj\Debug\Logic.csproj.CopyComplete

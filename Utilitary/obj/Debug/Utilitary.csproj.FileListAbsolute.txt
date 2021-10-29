@@ -1,0 +1,5 @@
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Utilitary\bin\Debug\Utilitary.dll
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Utilitary\bin\Debug\Utilitary.pdb
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Utilitary\obj\Debug\Utilitary.csproj.CoreCompileInputs.cache
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Utilitary\obj\Debug\Utilitary.dll
+C:\Users\obleo\Desktop\Universidad 6TO\software2\RegistrarVuelos\Utilitary\obj\Debug\Utilitary.pdb
